@@ -35,7 +35,7 @@ I enjoy learning new technologies and developing projects that solve real-world 
 
 ## Contact
 
-GitHub: @OmerGaber-hub## Hi there 👋
+GitHub: @OmerGaber-hub
 
 <!--
 **OmerGaber-hub/OmerGaber-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
